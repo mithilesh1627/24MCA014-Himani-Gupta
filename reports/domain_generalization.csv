@@ -1,0 +1,3 @@
+model,evaluation,MAE,RMSE,R2,train_rows,test_rows
+RandomForest,unseen_institutions_8_9,6.5000823018375335,8.082372040407911,0.5172583688497288,160084,39916
+HistGradientBoosting,unseen_institutions_8_9,6.305132421946571,7.853337576861339,0.5442301310883055,160084,39916

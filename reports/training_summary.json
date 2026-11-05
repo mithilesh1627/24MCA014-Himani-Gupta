@@ -1,0 +1,12 @@
+{
+  "best_regression_model": "LinearRegression_baseline",
+  "best_classification_model": "ExtraTrees",
+  "tuning_best_params": {
+    "model__n_estimators": 160,
+    "model__min_samples_leaf": 3,
+    "model__max_features": 0.7,
+    "model__max_depth": null
+  },
+  "n_records": 200000,
+  "test_size": 0.2
+}
